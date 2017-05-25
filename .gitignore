@@ -3,9 +3,9 @@
 #对于keil工程应该屏蔽上传的文件清单   alan   add#
 /Obj
 /List
-.o
-.bak
-.TMP
+*.o
+*.bak
+*.TMP
 
 #####boss   add
 !*.c   
